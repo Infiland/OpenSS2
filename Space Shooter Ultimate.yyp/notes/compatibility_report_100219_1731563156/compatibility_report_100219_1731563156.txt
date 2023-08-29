@@ -1,0 +1,49 @@
+!!! Font fNormal uses a font (@Kozuka Gothic Pr6N H) not installed on this system - Font has NOT been regenerated
+Font fMoney has been converted to font family DejaVu Serif (Book) - Font has been regenerated, small inconsistencies may occur
+Converting GML script: ${project_dir}\objects\o_moneysystem\Step_0.gml
+Converted description /// @description Power Meter
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'mShop' - setting to default audio group
+Missing audiogroup for sound: 'sShoot' - setting to default audio group
+Missing audiogroup for sound: 'mWorldDone' - setting to default audio group
+Missing audiogroup for sound: 'mMainMenu2' - setting to default audio group
+Missing audiogroup for sound: 'mTutorial' - setting to default audio group
+Missing audiogroup for sound: 'mWorld1' - setting to default audio group
+Missing audiogroup for sound: 'sHit' - setting to default audio group
+Missing audiogroup for sound: 'sExplode' - setting to default audio group
+Missing audiogroup for sound: 'mIntro' - setting to default audio group
+Missing audiogroup for sound: 'mBossMusic' - setting to default audio group
+Missing audiogroup for sound: 'mBossMusic2' - setting to default audio group
+Missing audiogroup for sound: 'sCoin' - setting to default audio group
+Missing audiogroup for sound: 'mWorld10' - setting to default audio group
+Missing audiogroup for sound: 'sndVoice1' - setting to default audio group
+Missing audiogroup for sound: 'sndVoice2' - setting to default audio group
+Missing audiogroup for sound: 'sndVoice3' - setting to default audio group
+Missing audiogroup for sound: 'm_battle1' - setting to default audio group
+Missing audiogroup for sound: 'm_battle2' - setting to default audio group
+Missing audiogroup for sound: 'm_battle3' - setting to default audio group
+Missing audiogroup for sound: 'm_battle4' - setting to default audio group
+Missing audiogroup for sound: 'm_battle5' - setting to default audio group
+Missing audiogroup for sound: 'm_FinalBossMusic' - setting to default audio group
+Missing audiogroup for sound: 'm_Minigame1' - setting to default audio group
+Missing audiogroup for sound: 's_Error' - setting to default audio group
+Missing audiogroup for sound: 'm_pianopractice' - setting to default audio group
+Missing audiogroup for sound: 'm_pianosong' - setting to default audio group
+Missing audiogroup for sound: 'm_World2Speech' - setting to default audio group
+Missing audiogroup for sound: 'mWorld2' - setting to default audio group
+Missing audiogroup for sound: 'sBigexplosion' - setting to default audio group
+Missing audiogroup for sound: 'sBigexplosion2' - setting to default audio group
+Missing audiogroup for sound: 'sBigexplosion3' - setting to default audio group
+Missing audiogroup for sound: 'mJasmineStop' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'action/action_another_room.gml'
+Added compatibility script 'action/action_end_sound.gml'
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_sound.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
