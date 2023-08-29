@@ -1,6 +1,6 @@
 if sprite_index = s_rockred {
 if global.invinsible = 0 {
-   instance_destroy(oPlayer3DIllusion);
+  // instance_destroy(oPlayer3DIllusion);
    instance_destroy(oPlayer);
 if global.playerhealth > 1 {
    audio_play_sound(sExplode,0,0);

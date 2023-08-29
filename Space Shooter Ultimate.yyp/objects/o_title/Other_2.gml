@@ -1,4 +1,7 @@
 action_sound(mMainMenu2, 1);
+
+game_set_speed(60,gamespeed_fps)
+
 ///All Variables
 global.money = 0;
 global.damagebullet = 1;
