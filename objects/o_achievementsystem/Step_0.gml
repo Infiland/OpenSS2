@@ -82,3 +82,6 @@ if global.world = 8 {
 global.money = global.money + 0.003;
 }
 
+if keyboard_check_pressed(vk_f3) {
+show_debug_overlay(1)	
+}

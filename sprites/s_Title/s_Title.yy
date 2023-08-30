@@ -4,7 +4,7 @@
   "name": "s_Title",
   "bbox_bottom": 322,
   "bbox_left": 99,
-  "bbox_right": 688,
+  "bbox_right": 736,
   "bbox_top": 113,
   "bboxMode": 0,
   "collisionKind": 1,
