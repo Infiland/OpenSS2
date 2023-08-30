@@ -1,5 +1,5 @@
 # OpenSS2
- Space Shooter Ultimate goes Open Source!
+ Space Shooter 2 goes Open Source!
 
 # How to Use:
 1. Open GameMaker Engine (Preferably 2023.6 and up)
