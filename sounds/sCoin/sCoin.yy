@@ -2,8 +2,8 @@
   "$GMSound":"",
   "%Name":"sCoin",
   "audioGroupId":{
-    "name":"audiogroup_default",
-    "path":"audiogroups/audiogroup_default",
+    "name":"Sounds",
+    "path":"audiogroups/Sounds",
   },
   "bitDepth":1,
   "bitRate":128,
@@ -13,7 +13,7 @@
   "name":"sCoin",
   "parent":{
     "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "path":"folders/Sounds/Sounds.yy",
   },
   "preload":true,
   "resourceType":"GMSound",
