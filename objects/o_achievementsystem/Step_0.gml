@@ -83,5 +83,9 @@ global.money = global.money + 0.003;
 }
 
 if keyboard_check_pressed(vk_f3) {
-show_debug_overlay(1)	
+if !is_debug_overlay_open() {
+	show_debug_overlay(1)
+} else {
+	show_debug_overlay(0)
+}
 }

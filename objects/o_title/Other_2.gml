@@ -1,3 +1,6 @@
+audio_group_load(Music)
+audio_group_load(Sounds)
+
 action_sound(mMainMenu2, 1);
 
 game_set_speed(60,gamespeed_fps)
