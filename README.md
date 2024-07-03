@@ -2,7 +2,7 @@
 Note: While other IDE's are possible to use, developing SS2 is preferable using the GameMaker IDE.
 Here are basic instructions on how to successfully run the game
 
-1. Download the latest version of GameMaker (2024.2)
+1. Download the latest version of GameMaker (2024.6)
 Official Site: https://gamemaker.io/en
 Steam: https://store.steampowered.com/app/1670460/GameMaker/
 3. Clone this repository https://github.com/Infiland/OpenSS2
